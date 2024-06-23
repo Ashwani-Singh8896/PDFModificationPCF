@@ -1,0 +1,15 @@
+.main{
+    margin:auto;
+    padding-right: 140px;;
+}
+.op{
+    /* padding-top: 50px; */
+    margin:auto;
+    padding-top: 40px;
+    
+}
+input[type=submit]{
+    width:70px;
+    height:13px;
+    
+}
